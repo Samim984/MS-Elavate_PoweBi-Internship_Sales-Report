@@ -14,7 +14,7 @@ The dashboard is designed to support **data-driven decision making** by presenti
 
 ### 1. Executive Overview
 Provides a high-level summary of the business performance.
-
+![Executive Overview](Overview%20Salesreport.png)
 
 Key insights:
 - Total Sales, Total Profit, Total Orders, Profit Margin %, Units Sold
