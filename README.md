@@ -16,7 +16,6 @@ The dashboard is designed to support **data-driven decision making** by presenti
 Provides a high-level summary of the business performance.
 
 
-
 Key insights:
 - Total Sales, Total Profit, Total Orders, Profit Margin %, Units Sold
 - Sales trend analysis across time
