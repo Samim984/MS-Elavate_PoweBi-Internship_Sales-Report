@@ -57,7 +57,7 @@ Key insights:
 ### 4. Salesperson Performance
 Analyzes internal sales team performance and reseller channel contribution.
 
-![Salesperson Performance](Salesperson%20Salesreport.png)
+![Salesperson Performance](Saleperson%20Salesreport.png)
 
 Key insights:
 - Total sales, profit, orders, and average sales per representative
