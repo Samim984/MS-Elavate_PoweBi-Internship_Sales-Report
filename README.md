@@ -29,6 +29,8 @@ Key insights:
 ### 2. Geographical Analysis
 Analyzes sales performance across different regions and countries.
 
+![Executive Overview](Overview%20Salesreport.png)
+
 Key insights:
 - Country-wise sales and profit performance
 - Target vs Achievement analysis
@@ -41,6 +43,8 @@ Key insights:
 ### 3. Product Performance
 Evaluates product profitability and demand patterns.
 
+![Product Performance](Product%20Sales%20Report.png
+
 Key insights:
 - Product economics (AOV, Profit per Order, Realization %, Cost Ratio)
 - Product demand trends over time
@@ -52,6 +56,8 @@ Key insights:
 
 ### 4. Salesperson Performance
 Analyzes internal sales team performance and reseller channel contribution.
+
+![Salesperson Performance](Salesperson%20Salesreport.png)
 
 Key insights:
 - Total sales, profit, orders, and average sales per representative
