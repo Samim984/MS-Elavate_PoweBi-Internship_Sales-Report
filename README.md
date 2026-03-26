@@ -1,3 +1,5 @@
+⭐ If you find this project useful, feel free to star the repository!
+---
 # MS Elevate Power BI Internship – Sales Performance & Product Analytics Dashboard
 
 ---
